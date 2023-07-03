@@ -2,8 +2,8 @@
 
 ### Example
 
-![](./assets/homepage.png)
-
 ### Link to live site.
 
-(coming soon)
+[Simplyright Website](https://simplyright.netlify.app/)
+
+![](./assets/homepage.png)
