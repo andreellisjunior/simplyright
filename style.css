@@ -1,0 +1,18 @@
+.btn-secondary {
+  background-color: #f0f6fe !important;
+  color: #3f8cf8 !important;
+  border: none !important;
+}
+
+.col:nth-child(1) h4,
+.col:nth-child(1) p:last-child {
+  color: #e8864b;
+}
+.col:nth-child(2) h4,
+.col:nth-child(2) p:last-child {
+  color: #705fc0;
+}
+.col:nth-child(3) h4,
+.col:nth-child(3) p:last-child {
+  color: #6dbf75;
+}
